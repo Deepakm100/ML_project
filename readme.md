@@ -61,6 +61,7 @@ To get started with these projects, you will need to clone the repository and in
     pip install -r requirements.txt
     ```
 4. Pro tip just use Google Colab
+
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
